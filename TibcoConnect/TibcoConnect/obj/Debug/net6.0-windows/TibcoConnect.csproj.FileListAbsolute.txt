@@ -1,0 +1,17 @@
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\bin\Debug\net6.0-windows\TibcoConnect.exe
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\bin\Debug\net6.0-windows\TibcoConnect.deps.json
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\bin\Debug\net6.0-windows\TibcoConnect.runtimeconfig.json
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\bin\Debug\net6.0-windows\TibcoConnect.dll
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\bin\Debug\net6.0-windows\TibcoConnect.pdb
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\TibcoConnect.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\TibcoConnect.FormMain.resources
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\TibcoConnect.csproj.GenerateResource.cache
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\TibcoConnect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\TibcoConnect.AssemblyInfoInputs.cache
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\TibcoConnect.AssemblyInfo.cs
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\TibcoConnect.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\TibcoConnect.dll
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\refint\TibcoConnect.dll
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\TibcoConnect.pdb
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\TibcoConnect.genruntimeconfig.cache
+D:\Visual Studio 2022\1_code\TibcoConnect\TibcoConnect\obj\Debug\net6.0-windows\ref\TibcoConnect.dll
